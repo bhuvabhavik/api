@@ -3324,6 +3324,7 @@
     "info": {
     "id": "239792",
     "name": "Maharaj Pavbhaji",
+    "promoted" : true,
     "cloudinaryImageId": "khkkpjihjbcskh5yevh2",
     "locality": "Ghanshyam Nagar",
     "areaName": "Bhuj Locality",
