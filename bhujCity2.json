@@ -1070,6 +1070,7 @@
     {
     "info": {
     "id": "239792",
+    "promoted": true,
     "name": "Maharaj Pavbhaji",
     "cloudinaryImageId": "khkkpjihjbcskh5yevh2",
     "locality": "Ghanshyam Nagar",
@@ -1165,6 +1166,7 @@
     {
     "info": {
     "id": "616622",
+    "promoted": true,
     "name": "Aatithya Multicusine Restaurant",
     "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/4/10/b7b13804-51b5-415c-bb39-305f7cd822d6_616622.jpg",
     "locality": "B.Ed College Road",
