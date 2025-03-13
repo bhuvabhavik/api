@@ -1,0 +1,39 @@
+[
+  {
+    "role": "SAP ABAP Executive Trainee",
+    "company": "AeonX Digital",
+    "date": "December 2023 - November 2024",
+    "desc": "Developed and maintained SAP applications using ABAP programming language. Collaborated with functional teams to gather requirements and translate them into technical specifications. Assisted in debugging and resolving issues within SAP applications to ensure seamless business operations.",
+    "skills": [
+      "ABAP Programming",
+      "SAP Modules (SD, MM, FI)",
+      "Object-Oriented Programming",
+      "Problem-Solving",
+      "Communication",
+      "Team Collaboration",
+      "Adaptability",
+      "Continuous Learning"
+    ],
+    "logo": "https://raw.githubusercontent.com/yourusername/your-repo/main/public/images/aeonx-logo.png",
+    "color": "#0066CC"
+  },
+  {
+    "role": "Flutter App Developer",
+    "company": "WR Team",
+    "date": "July 2023 - Sept 2023",
+    "desc": "Designed and developed cross-platform mobile applications using the Flutter framework. Collaborated with cross-functional teams to define, design, and ship new features, ensuring a seamless user experience across both iOS and Android platforms. Conducted thorough testing and debugging to maintain high performance and responsiveness of applications.",
+    "skills": [
+      "Flutter",
+      "Dart",
+      "Cross-Platform Mobile Development",
+      "UI/UX Design",
+      "RESTful APIs",
+      "Git",
+      "Agile Methodologies",
+      "Problem-Solving",
+      "Communication"
+    ],
+    "logo": "https://raw.githubusercontent.com/yourusername/your-repo/main/public/images/wrteam-logo.png",
+    "color": "#02569B"
+  }
+]
