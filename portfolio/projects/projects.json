@@ -14,7 +14,7 @@
     "image": "https://raw.githubusercontent.com/bhuvabhavik/api/main/portfolio/projects/bhavikPortfolio.png",
     "live": true,
     "technologies": ["React", "Tailwind CSS", "TypeScript", "Mantine UI"],
-    "link": "https://yourdomain.com",
+    "link": "https://bhuvabhavik.com",
     "github": "https://github.com/bhuvabhavik/portfolio"
   }
 ]
