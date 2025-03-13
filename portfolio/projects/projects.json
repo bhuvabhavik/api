@@ -2,7 +2,7 @@
   {
     "title": "HBR TECH Website",
     "desc": "Transforming ideas into innovative solutions with smart automation, cutting-edge embedded engineering, responsive web development, and intuitive mobile apps, all designed to drive efficiency, enhance experiences, and shape the future.",
-    "image": "/assets/projectImages/hbrtech.png",
+    "image": "https://raw.githubusercontent.com/bhuvabhavik/api/main/portfolio/projects/AeonX%20Digital.png",
     "live": true,
     "technologies": ["HTML", "CSS", "JavaScript", "EmailJS", "Electron", "Redux", "Tailwind"],
     "link": "https://hbrtech.in/",
@@ -17,40 +17,4 @@
     "link": "https://yourdomain.com",
     "github": "https://github.com/bhuvabhavik/portfolio"
   },
-  {
-    "title": "E-Commerce Dashboard",
-    "desc": "Comprehensive analytics dashboard for online stores with real-time sales tracking, inventory management, and customer insights to optimize business operations.",
-    "image": "/assets/projectImages/dashboard.png",
-    "live": false,
-    "technologies": ["React", "Chart.js", "Material UI", "Firebase"],
-    "link": "",
-    "github": "https://github.com/bhuvabhavik/ecommerce-dashboard"
-  },
-  {
-    "title": "Weather App",
-    "desc": "Minimalist weather application providing accurate forecasts, hourly updates, and location-based weather information with a user-friendly interface.",
-    "image": "/assets/projectImages/weather.png",
-    "live": true,
-    "technologies": ["JavaScript", "OpenWeather API", "HTML5", "CSS3"],
-    "link": "https://weather.yourdomain.com",
-    "github": "https://github.com/bhuvabhavik/weather-app" 
-  },
-  {
-    "title": "Task Management Tool",
-    "desc": "Intuitive task manager with drag-and-drop functionality, priority settings, due dates, and progress tracking to enhance productivity and organization.",
-    "image": "/assets/projectImages/taskmanager.png",
-    "live": true,
-    "technologies": ["Vue.js", "Vuex", "Bootstrap", "LocalStorage API"],
-    "link": "https://tasks.yourdomain.com",
-    "github": "https://github.com/bhuvabhavik/task-manager"
-  },
-  {
-    "title": "Smart Home IoT Interface",
-    "desc": "Connected home control system featuring device management, automation rules, energy monitoring, and remote access for modern smart homes.",
-    "image": "/assets/projectImages/smarthome.png",
-    "live": false,
-    "technologies": ["React", "Node.js", "MQTT", "Socket.IO"],
-    "link": "",
-    "github": "https://github.com/bhuvabhavik/smart-home"
-  }
 ]
