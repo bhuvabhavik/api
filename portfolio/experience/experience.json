@@ -1,23 +1,5 @@
 [
   {
-    "role": "SAP ABAP Trainee",
-    "company": "AeonX Digital",
-    "date": "December 2023 - November 2024",
-    "desc": "Developed and maintained SAP applications using ABAP programming language. Collaborated with functional teams to gather requirements and translate them into technical specifications. Assisted in debugging and resolving issues within SAP applications to ensure seamless business operations.",
-    "skills": [
-      "ABAP Programming",
-      "SAP Modules (SD, MM, FI)",
-      "Object-Oriented Programming",
-      "Problem-Solving",
-      "Communication",
-      "Team Collaboration",
-      "Adaptability",
-      "Continuous Learning"
-    ],
-    "logo": "https://raw.githubusercontent.com/yourusername/your-repo/main/public/images/aeonx-logo.png",
-    "color": "#0066CC"
-  },
-  {
     "role": "SAP ABAP Executive Trainee",
     "company": "AeonX Digital",
     "date": "December 2023 - November 2024",
@@ -32,7 +14,7 @@
       "Adaptability",
       "Continuous Learning"
     ],
-    "logo": "https://raw.githubusercontent.com/yourusername/your-repo/main/public/images/aeonx-logo.png",
+    "logo": "https://raw.githubusercontent.com/bhuvabhavik/api/main/portfolio/experience/AeonX%20Digital.png",
     "color": "#0066CC"
   },
   {
