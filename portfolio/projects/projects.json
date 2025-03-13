@@ -11,9 +11,9 @@
   {
     "title": "Portfolio Website",
     "desc": "Personal portfolio showcasing my projects, skills, and professional journey with a clean, responsive design and interactive elements.",
-    "image": "/assets/projectImages/portfolio.png",
-    "live": false,
-    "technologies": ["React", "Tailwind CSS", "TypeScript", "Framer Motion"],
+    "image": "https://raw.githubusercontent.com/bhuvabhavik/api/main/portfolio/projects/bhavikPortfolio.png",
+    "live": true,
+    "technologies": ["React", "Tailwind CSS", "TypeScript", "Mantine UI"],
     "link": "https://yourdomain.com",
     "github": "https://github.com/bhuvabhavik/portfolio"
   }
