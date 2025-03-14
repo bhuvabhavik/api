@@ -16,5 +16,14 @@
     "technologies": ["React", "Tailwind CSS", "TypeScript", "Mantine UI"],
     "link": "https://bhuvabhavik.com",
     "github": "https://github.com/bhuvabhavik/portfolio"
-  }
+  },
+  {
+  "title": "Flutter Portfolio",
+  "desc": "A responsive personal portfolio showcasing my projects, skills, and professional journey, built using Flutter for a seamless cross-platform experience.",
+  "image": "https://raw.githubusercontent.com/bhuvabhavik/api/main/portfolio/projects/flutterPortfolio.png",
+  "live": true,
+  "technologies": ["Flutter", "Dart"],
+  "link": "https://portfolio.bhuvabhavik.com",
+  "github": "https://github.com/bhuvabhavik/flutter-portfolio"
+}
 ]
