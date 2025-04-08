@@ -1,0 +1,19 @@
+{
+    "role": "Flutter App Developer",
+    "company": "WR Team",
+    "date": "July 2023 - Sept 2023",
+    "desc": "Designed and developed cross-platform mobile applications using the Flutter framework. Collaborated with cross-functional teams to define, design, and ship new features, ensuring a seamless user experience across both iOS and Android platforms. Conducted thorough testing and debugging to maintain high performance and responsiveness of applications.",
+    "skills": [
+      "Flutter",
+      "Dart",
+      "Cross-Platform Mobile Development",
+      "UI/UX Design",
+      "RESTful APIs",
+      "Git",
+      "Agile Methodologies",
+      "Problem-Solving",
+      "Communication"
+    ],
+    "logo": "https://raw.githubusercontent.com/bhuvabhavik/api/main/portfolio/projects/WR%20Team.png",
+    "color": "#02569B"
+  }
