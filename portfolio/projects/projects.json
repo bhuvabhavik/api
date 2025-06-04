@@ -1,5 +1,14 @@
 [
   {
+    "title": "Dev Dosti",
+    "desc": "Platform to find a developer Dost - because every dev deserves a Dost.",
+    "image": "https://raw.githubusercontent.com/bhuvabhavik/api/main/portfolio/projects/devdosti.jpg",
+    "live": true,
+    "technologies": ["React","Express","Mongo DB","Node JS", "Redux", "Tailwind"],
+    "link": "https://bhuvabhavik.com/devdosti",
+    "github": "https://github.com/bhuvabhavik/devdosti-frontend"
+  },
+  {
     "title": "HBR TECH Website",
     "desc": "Transforming ideas into innovative solutions with smart automation, cutting-edge embedded engineering, responsive web development, and intuitive mobile apps, all designed to drive efficiency, enhance experiences, and shape the future.",
     "image": "https://raw.githubusercontent.com/bhuvabhavik/api/main/portfolio/projects/hbrtech.png",
