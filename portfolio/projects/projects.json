@@ -2,7 +2,7 @@
   {
     "title": "Dev Dosti",
     "desc": "Platform to find a developer Dost - because every dev deserves a Dost.",
-    "image": "https://raw.githubusercontent.com/bhuvabhavik/api/main/portfolio/projects/devdosti.png",
+    "image": "https://raw.githubusercontent.com/bhuvabhavik/api/main/portfolio/projects/devdosti.png?updated=true",
     "live": true,
     "technologies": ["React","Express","Mongo DB","Node JS", "Redux", "Tailwind"],
     "link": "https://bhuvabhavik.com/devdosti",
