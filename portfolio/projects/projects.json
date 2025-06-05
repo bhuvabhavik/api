@@ -5,7 +5,7 @@
     "image": "https://raw.githubusercontent.com/bhuvabhavik/api/main/portfolio/projects/devdosti.png",
     "live": true,
     "technologies": ["React","Express","Mongo DB","Node JS", "Redux", "Tailwind"],
-    "link": "https://bhuvabhavik.com/devdosti",
+    "link": "http://51.20.49.209/",
     "github": "https://github.com/bhuvabhavik/devdosti-frontend"
   },
   {
